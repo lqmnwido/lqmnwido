@@ -1,21 +1,61 @@
-# 💫 About Me:
-I am a Software Engineer based in Malaysia with a Bachelor's degree in Software Engineering from Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA).<br><br>My work focuses on building scalable web applications and integrating AI into practical business solutions. I have professional experience developing full-stack systems with Laravel and Vue.js, designing REST APIs, deploying production services, and implementing AI features such as speech-to-text transcription, document summarization, and intelligent data processing.<br><br>I enjoy solving real-world problems by combining software engineering best practices with emerging AI technologies to create efficient, maintainable, and impactful systems.<br>
+# Hi, I'm Luqman Hafiz
 
+Software Engineer based in Malaysia. I build full-stack web applications, Laravel systems, and practical AI-enabled tools for transcription, document processing, and business workflows.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lqmnhafiz/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luqmanhafiz247@gmail.com) 
+I graduated in Software Engineering from Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA), and my current work focuses on combining reliable application engineering with useful AI features.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=lqmnwido&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=lqmnwido&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lqmnwido&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Current Focus
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+- Building production-ready Laravel, Livewire, Vue, and TypeScript applications
+- Designing REST APIs and service-oriented backends
+- Working with AI features such as speech-to-text, speaker diarization, summarization, and intelligent document processing
+- Improving deployment, testing, and maintainability across real-world systems
 
----
-[![](https://komarev.com/ghpvc/?username=lqmnwido&icon=0&color=0)](https://visitcount.itsvg.in)
+## Featured Work
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Project | Stack | Notes |
+| --- | --- | --- |
+| [E_PJK](https://github.com/lqmnwido/E_PJK) | Laravel, Livewire, Blade, Tailwind | Khairat / management system upgraded to Laravel 13 and Livewire 4 |
+| [portfolio](https://github.com/lqmnwido/portfolio) | TypeScript | Personal portfolio project |
+| [ReceiptBuddy](https://github.com/lqmnwido/ReceiptBuddy) | TypeScript, Python, Docker | Multi-service receipt and business workflow platform |
+| [RojakAI](https://github.com/lqmnwido/RojakAI) | Python | Pre-alpha AI project |
+| [RojakDiarization](https://github.com/lqmnwido/RojakDiarization) | Python | Pre-alpha diarization project |
+| [Transcribe](https://github.com/lqmnwido/Transcribe) | Laravel, Blade | Speech transcription application |
+| [MyPelantikan](https://github.com/lqmnwido/MyPelantikan) | Laravel, Vue | Government appointment system |
+| [FKKMS](https://github.com/lqmnwido/FKKMS) | Laravel, Blade | Alpha-stage Laravel system |
+
+## Tech Stack
+
+**Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Frameworks and Tools**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## GitHub Stats
+
+![Luqman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lqmnwido&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub streak](https://streak-stats.demolab.com/?user=lqmnwido&theme=dark&hide_border=false)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lqmnwido&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lqmnhafiz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luqmanhafiz247@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=lqmnwido&style=flat-square&color=0e75b6)
