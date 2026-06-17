@@ -45,14 +45,6 @@ I graduated in Software Engineering from Universiti Malaysia Pahang Al-Sultan Ab
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## GitHub Stats
-
-![Luqman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lqmnwido&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub streak](https://streak-stats.demolab.com/?user=lqmnwido&theme=dark&hide_border=false)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lqmnwido&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lqmnhafiz/)
